@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.1/Colibri_PMS_1.0.1.zip",
-  "sha256": "beba45696eefc345880b828fe646f83069f7309a74e981e2e412a4404a892af3",
-  "notes": "Calendario: tip de huésped ya no queda pegado",
+  "version": "1.0.2",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.2/Colibri_PMS_1.0.2.zip",
+  "sha256": "f51be60c12caea7f414ecda295f324e0d5ffb99cc06db91ac19b41e08b1765a5",
+  "notes": "Actualización 1.0.2: mejoras EPS, reservas, empresas y correcciones de interfaz",
   "min_updater": "1.0.0"
 }
