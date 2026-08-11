@@ -1,7 +1,7 @@
 {
   "version": "1.0.5",
   "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.5/Colibri_PMS_1.0.5.zip",
-  "sha256": "1fbf43c67aadb0a246374aa9aaa3c1bb7aeb4cd336262ae55f3c35ebad8d2c8c",
-  "notes": "Actualización 1.0.5: corrección permanente del sistema de actualizaciones y configuración de clientes",
+  "sha256": "9d84f3c12bbaaa1e442a5af3a790ab0fe533b08c1b10fb6ed8e391f3af03a40b",
+  "notes": "Actualización 1.0.5: optimización de rendimiento y corrección permanente del sistema de actualizaciones",
   "min_updater": "1.0.0"
 }
