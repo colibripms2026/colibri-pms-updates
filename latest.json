@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.4/Colibri_PMS_1.0.4.zip",
-  "sha256": "8668e04496ee866f6d41d51705d7df7f6eadb86fd14b16df46444c50622dc62b",
-  "notes": "Actualización 1.0.4: corrección de egresos históricos y consecutivos de Tesorería",
+  "version": "1.0.5",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.5/Colibri_PMS_1.0.5.zip",
+  "sha256": "1fbf43c67aadb0a246374aa9aaa3c1bb7aeb4cd336262ae55f3c35ebad8d2c8c",
+  "notes": "Actualización 1.0.5: corrección permanente del sistema de actualizaciones y configuración de clientes",
   "min_updater": "1.0.0"
 }
