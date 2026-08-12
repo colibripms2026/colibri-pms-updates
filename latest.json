@@ -1,6 +1,6 @@
 {
   "version": "1.0.6",
   "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.6/Colibri_PMS_1.0.6.zip",
-  "sha256": "A601F9C398C37818B22BCCCF1A5E0B9C801D83840DE100F3F9B1A011876B0B21",
+  "sha256": "9C847E19F0E206A8451FF8619B8AC00D9F1F6342DF3FF8274BF142A06F5C1ADB",
   "notes": "v1.0.6: check-out con saldo pendiente, mejoras de egresos Contado/Credito y vencimiento de cuentas por pagar."
 }
