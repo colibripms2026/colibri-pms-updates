@@ -1,6 +1,7 @@
-{
-  "version": "1.0.6",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.6/Colibri_PMS_1.0.6.zip",
-  "sha256": "9C847E19F0E206A8451FF8619B8AC00D9F1F6342DF3FF8274BF142A06F5C1ADB",
-  "notes": "v1.0.6: check-out con saldo pendiente, mejoras de egresos Contado/Credito y vencimiento de cuentas por pagar."
+﻿{
+  "version": "1.0.7",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.7/Colibri_PMS_1.0.7.zip",
+  "sha256": "c545f7bbff004dda93ddaae6c682d4033e77f4b4fe6015e4eb55509317f1fafc",
+  "notes": "v1.0.7: proveedores, cuentas por pagar, credito sin afectar caja, dias de credito y vencimiento automatico, abonos, pago total, filtros por periodo y proveedor, historial de pagos por proveedor y validacion de rangos de fechas.",
+  "min_updater": "1.0.0"
 }
