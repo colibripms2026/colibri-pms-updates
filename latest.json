@@ -1,7 +1,7 @@
-﻿{
+{
   "version": "1.0.7",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.7/Colibri_PMS_1.0.7.zip",
-  "sha256": "c545f7bbff004dda93ddaae6c682d4033e77f4b4fe6015e4eb55509317f1fafc",
-  "notes": "v1.0.7: proveedores, cuentas por pagar, credito sin afectar caja, dias de credito y vencimiento automatico, abonos, pago total, filtros por periodo y proveedor, historial de pagos por proveedor y validacion de rangos de fechas.",
+  "url": "Colibri_PMS_1.0.7.zip",
+  "sha256": "ccf251a37a5c87c0471b95ba14f7c78644b92782f640614502ca8b3fffc8417e",
+  "notes": "v1.0.7: proveedores, cuentas por pagar, credito sin afectar caja, dias de credito y vencimiento automatico, abonos, pago total, filtros por periodo y proveedor, historial de pagos por proveedor, validacion de rangos de fechas, deshacer check-in y traslado de habitacion para usuarios autorizados, y liberacion correcta de habitaciones en reservas anuladas o eliminadas.",
   "min_updater": "1.0.0"
 }
