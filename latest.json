@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9.1",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.1/Colibri_PMS_1.0.9.1_FINAL.zip",
-  "sha256": "C3A344FF1F6E33AA14AE1C639886EB1D173457790A2D08485B662D481A0C8ED7",
-  "notes": "v1.0.9.1: corrección de sincronización del calendario.",
+  "version": "1.0.9.3",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.3/Colibri_PMS_1.0.9.3_FINAL.zip",
+  "sha256": "71DA675C7ED839144049E48846B100364BCCC571BFF8CE069453B689F7E08645",
+  "notes": "v1.0.9.3: correccion del codigo real en pasadias, documentos con codigo dinamico y opcion para anular pasadias con trazabilidad.",
   "min_updater": "1.0.0"
 }
