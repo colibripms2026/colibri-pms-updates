@@ -1,7 +1,7 @@
 {
   "version": "1.0.9.4",
   "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.4/Colibri_PMS_1.0.9.4_FINAL.zip",
-  "sha256": "CEE51AF0348936C85DF1E79A900AD4F7B3E29E618654FA5E0C30A69310414FD5",
+  "sha256": "B20AEC470EE27B09979C579724F4246F8F1B3E3EC46AF668D6EBBBEA601BC934",
   "notes": "v1.0.9.4: ajustes de Tesoreria, correccion de doble conteo en CxP, mejoras en Libro diario, Caja diaria y cierre de turno.",
   "min_updater": "1.0.0"
 }
