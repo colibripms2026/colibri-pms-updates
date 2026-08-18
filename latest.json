@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9.3",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.3/Colibri_PMS_1.0.9.3_FINAL.zip",
-  "sha256": "71DA675C7ED839144049E48846B100364BCCC571BFF8CE069453B689F7E08645",
-  "notes": "v1.0.9.3: correccion del codigo real en pasadias, documentos con codigo dinamico y opcion para anular pasadias con trazabilidad.",
+  "version": "1.0.9.4",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.4/Colibri_PMS_1.0.9.4_FINAL.zip",
+  "sha256": "CEE51AF0348936C85DF1E79A900AD4F7B3E29E618654FA5E0C30A69310414FD5",
+  "notes": "v1.0.9.4: ajustes de Tesoreria, correccion de doble conteo en CxP, mejoras en Libro diario, Caja diaria y cierre de turno.",
   "min_updater": "1.0.0"
 }
