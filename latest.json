@@ -1,7 +1,6 @@
 {
-  "version": "1.0.9.4",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.4/Colibri_PMS_1.0.9.4_FINAL.zip",
-  "sha256": "B20AEC470EE27B09979C579724F4246F8F1B3E3EC46AF668D6EBBBEA601BC934",
-  "notes": "v1.0.9.4: ajustes de Tesoreria, correccion de doble conteo en CxP, mejoras en Libro diario, Caja diaria y cierre de turno.",
-  "min_updater": "1.0.0"
+  "version": "1.0.9.5",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.5/Colibri_PMS_1.0.9.5.zip",
+  "sha256": "A3CC2CB73B885ECD0BF526F5DC90A292D4E7E8D056FA54A74C90F789F1029047",
+  "notes": "v1.0.9.5: mejoras en cuentas Empresa, pagos y abonos, integración de adicionales y consumos, correcciones de Cuenta de Cobro y Estado de Cuenta, y sincronización de saldos."
 }
