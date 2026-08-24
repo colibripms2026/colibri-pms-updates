@@ -1,6 +1,6 @@
 {
   "version": "1.0.9.5",
   "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.5/Colibri_PMS_1.0.9.5.zip",
-  "sha256": "A3CC2CB73B885ECD0BF526F5DC90A292D4E7E8D056FA54A74C90F789F1029047",
+  "sha256": "66A5BA58CE066C60C0ACA6DE2A756164C342E86F69740ED7DB25428B66BF2099",
   "notes": "v1.0.9.5: mejoras en cuentas Empresa, pagos y abonos, integración de adicionales y consumos, correcciones de Cuenta de Cobro y Estado de Cuenta, y sincronización de saldos."
 }
