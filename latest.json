@@ -1,6 +1,6 @@
 {
   "version": "1.0.9.6",
   "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.6/Colibri_PMS_1.0.9.6.zip",
-  "sha256": "2EE65DAB3ED146704ED223C38EFD8A029A26C646977E300D442B73DD11627C28",
+  "sha256": "A08417C921C601800609CC4889AC980EF823DFD2302B1ACE82E89937670823A4",
   "notes": "v1.0.9.6: políticas en Registro Hotelero, aviso de objetos personales en Registro de Transporte y mejoras del flujo de apertura, cierre, entrega y recepción de turnos."
 }
