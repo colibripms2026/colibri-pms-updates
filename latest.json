@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.9.13",
-    "url":  "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.13/Colibri_PMS_1.0.9.13_FINAL.zip",
-    "sha256":  "397FB4A38C7B7C19037BB1C08EEC7415DCC8FA77EB8D47DE3E3A580598CE295D",
-    "notes":  "v1.0.9.13: hotfix de rendimiento. Elimina recarga duplicada en login y evita auto-guardado completo de PostgreSQL durante cada lectura.",
-    "min_updater":  "1.0.0"
+  "version": "1.0.9.14",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.14/Colibri_PMS_1.0.9.14_FINAL.zip",
+  "sha256": "3BDEE9DD6E91D5E4A89BD2F7EB42ABA11ABD6B45558039B59AE2903F5B10473",
+  "notes": "Corrección de empaquetado y rendimiento. Incluye assets de CustomTkinter para evitar error de arranque por blue.json faltante.",
+  "min_updater": "1.0.0"
 }
