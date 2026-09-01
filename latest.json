@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.9.10",
-    "url":  "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.10/Colibri_PMS_1.0.9.10_FINAL.zip",
-    "sha256":  "5626C532EE2A385B375FA0BD656CEEBB05FBB6EBA554332015B8DA73065439C4",
+    "version":  "1.0.9.11",
+    "url":  "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.11/Colibri_PMS_1.0.9.11_FINAL.zip",
+    "sha256":  "994E55F2A796A7AF592417B19327759F85263E9FDF5F2794B6597642C393C79A",
     "notes":  "v1.0.9.10: consolidacion de Tesoreria y turnos, base economica unica, corte de continuidad de septiembre, correcciones de pagos y mejoras de estabilidad de Nomina.",
     "min_updater":  "1.0.0"
 }
