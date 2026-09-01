@@ -1,7 +1,7 @@
 {
-"version": "1.0.9.14",
-"url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.14/Colibri_PMS_1.0.9.14_FINAL.zip",
-"sha256": "3bedee9dd6e91d5e4a89bd2f7eb42aba11abd6b45558039b59ae2903f5b10473",
-"notes": "Correccion de empaquetado y rendimiento. Incluye assets de CustomTkinter para evitar error de arranque por blue.json faltante.",
-"min_updater": "1.0.0"
+  "version": "1.0.9.15",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.15/Colibri_PMS_1.0.9.15_FINAL.zip",
+  "sha256": "e601e11e67a95b8602ea7f04a1ec5beaf2c1f5fcab6cf13fd22f62f4491a465f",
+  "notes": "Corrección definitiva de empaquetado. Incluye CustomTkinter assets y Tcl/Tk para evitar errores de arranque en clientes.",
+  "min_updater": "1.0.0"
 }
