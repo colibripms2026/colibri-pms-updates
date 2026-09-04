@@ -1,7 +1,1 @@
-{
-    "version":  "1.0.9.20",
-    "url":  "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.20/Colibri_PMS_1.0.9.20_FINAL.zip",
-    "sha256":  "01C15902359E4428DE392DE5EA81D8F8201471EAAB0D69BE5DD6F33CEDCBAE07",
-    "notes":  "COLIBRI PMS 1.0.9.20 - correcciones de tesoreria y manejo seguro de devoluciones durante la edicion de reservas.",
-    "min_updater":  "1.0.0"
-}
+{"notes":"COLIBRI PMS 1.0.9.20 - correcciones de tesoreria y manejo seguro de devoluciones durante la edicion de reservas.","url":"https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.20/Colibri_PMS_1.0.9.20_FINAL.zip","version":"1.0.9.20","min_updater":"1.0.0","sha256":"01C15902359E4428DE392DE5EA81D8F8201471EAAB0D69BE5DD6F33CEDCBAE07"}
