@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9.22",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.22/Colibri_PMS_1.0.9.22_FINAL.zip",
-  "sha256": "29502A1802C44C2ECDC3C82E370A4EAE753EC066FC773D198622B5A4FD387DC6",
-  "notes": "COLIBRI PMS 1.0.9.22 - correcciones y mejoras de estabilidad, hospitalizacion EPS y sistema de actualizacion reforzado.",
-  "min_updater": "1.0.0"
+    "version":  "1.0.9.23",
+    "url":  "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.23/Colibri_PMS_1.0.9.23_FINAL.zip",
+    "sha256":  "F1BFCA5DD12DE42CC4F7C729F775085DAF2A9FFABD762652876B959EE27D40F4",
+    "notes":  "COLIBRI PMS 1.0.9.23 - Tesoreria actualizada, continuidad de saldos, traslados internos, CxP y correcciones de movimientos empresariales.",
+    "min_updater":  "1.0.0"
 }
