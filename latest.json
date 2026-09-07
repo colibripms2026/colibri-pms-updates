@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.9.24",
-    "url":  "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.24/Colibri_PMS_1.0.9.24_FINAL.zip",
-    "sha256":  "AE5EB92ADCEAFB9CC32C99EA2206B06569A4F1DD5A11E2DD8C77352A72FA0CAD",
-    "notes":  "COLIBRI PMS 1.0.9.24 - Cuentas por cobrar consolidadas Particulares, Empresas y EPS; correcciones financieras y de pagos; cartera unificada; mejoras de estados de habitaciones y reservas; CxC trasladada a Tesoreria con filtros de calendario.",
+    "version":  "1.0.9.25",
+    "url":  "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.25/Colibri_PMS_1.0.9.25_FINAL.zip",
+    "sha256":  "2D6E5358240E9887D4EA1FEDA76A61888E19EB8270392B1F55AA6EF3FB3EE414",
+    "notes":  "COLIBRI PMS 1.0.9.25 - Roles personalizados; mejoras de caja y turnos; Superadministrador exento de turno obligatorio; tarifa manual persistente en reservas; cartera historica julio-agosto; buscador y orden por reserva en CxC; prorrogas manuales en Hospitalizacion EPS; correccion de cartera de Empresas proveniente de cotizaciones convertidas.",
     "min_updater":  "1.0.0"
 }
