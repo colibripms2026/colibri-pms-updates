@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.9.25",
-    "url":  "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.25/Colibri_PMS_1.0.9.25_FINAL.zip",
-    "sha256":  "2D6E5358240E9887D4EA1FEDA76A61888E19EB8270392B1F55AA6EF3FB3EE414",
-    "notes":  "COLIBRI PMS 1.0.9.25 - Roles personalizados; mejoras de caja y turnos; Superadministrador exento de turno obligatorio; tarifa manual persistente en reservas; cartera historica julio-agosto; buscador y orden por reserva en CxC; prorrogas manuales en Hospitalizacion EPS; correccion de cartera de Empresas proveniente de cotizaciones convertidas.",
-    "min_updater":  "1.0.0"
+  "version": "1.0.9.26",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.26/Colibri_PMS_1.0.9.26_FINAL.zip",
+  "sha256": "280B6A57D86216A8840045A8ED7CB85CC27461FFEB1FDCF7A443CEFC846B180F",
+  "notes": "Correcciones Pasadía, Resumen EPS, detalle EPS, checkout con habitación disponible y deshacer checkout sin reversar pagos para Superadministrador.",
+  "min_updater": "1.0.0"
 }
