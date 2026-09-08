@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9.26",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.26/Colibri_PMS_1.0.9.26_FINAL.zip",
-  "sha256": "280B6A57D86216A8840045A8ED7CB85CC27461FFEB1FDCF7A443CEFC846B180F",
-  "notes": "Correcciones Pasadía, Resumen EPS, detalle EPS, checkout con habitación disponible y deshacer checkout sin reversar pagos para Superadministrador.",
+  "version": "1.0.9.27",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.27/Colibri_PMS_1.0.9.27_FINAL.zip",
+  "sha256": "C2ABEE2EA08495208A71DB1DB53E8E2DDB0465A0A5BDD05FB0EF381D7076023D",
+  "notes": "Tesorería: los egresos a crédito pendientes ya no suman como egresos del día; Operativo con acceso a Tesorería puede acceder correctamente a Cuentas por pagar.",
   "min_updater": "1.0.0"
 }
