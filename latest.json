@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9.28",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.28/Colibri_PMS_1.0.9.28_FINAL.zip",
-  "sha256": "CF5D6E11DF53FA01E3D1AEE791D27501FA41116A674E0B464863106A36C4AB78",
-  "notes": "Version estable 1.0.9.28",
+  "version": "1.0.9.30",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.30/Colibri_PMS_1.0.9.30_FINAL.zip",
+  "sha256": "794D009AB7AB80A60CDCF6F94589B8BFA94D0D41B39DD38CBB788695E787E729",
+  "notes": "Base estable 1.0.9.28 con correcciones EPS validadas y build limpio",
   "min_updater": "1.0.0"
 }
