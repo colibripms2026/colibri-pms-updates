@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9.32",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.32/Colibri_PMS_1.0.9.32_FINAL.zip",
-  "sha256": "DDFB785B9B366F76F5EC89E5364586E2F78D9C24BFDC45D100ECE1C870F77C89",
-  "notes": "COLIBRI PMS 1.0.9.32 - Mejoras en Pasadia EPS, Busqueda de reservas y Hospitalizaciones EPS. Buscar reserva incluye hospedajes, pasadias y hospitalizaciones; las hospitalizaciones muestran sus fechas reales y el Resumen contabiliza las hospitalizaciones finalizadas por su fecha de finalizacion.",
+  "version": "1.0.9.31",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.31/Colibri_PMS_1.0.9.31_FINAL.zip",
+  "sha256": "760D83C3E0A981D0E75962B1E96725610A529BF80713E7BE6E88F3AB5ECD1E12",
+  "notes": "COLIBRI PMS 1.0.9.31 - Version estable anterior.",
   "min_updater": "1.0.0"
 }
