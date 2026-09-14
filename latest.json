@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9.30",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.30/Colibri_PMS_1.0.9.30_FINAL.zip",
-  "sha256": "794D009AB7AB80A60CDCF6F94589B8BFA94D0D41B39DD38CBB788695E787E729",
-  "notes": "Base estable 1.0.9.28 con correcciones EPS validadas y build limpio",
-  "min_updater": "1.0.0"
+    "version":  "1.0.9.31",
+    "url":  "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.31/Colibri_PMS_1.0.9.31_FINAL.zip",
+    "sha256":  "760D83C3E0A981D0E75962B1E96725610A529BF80713E7BE6E88F3AB5ECD1E12",
+    "notes":  "COLIBRI PMS 1.0.9.31 - Correccion puntual: permite realizar check-in atrasado en reservas vigentes Confirmadas, aunque la fecha programada de salida ya haya pasado.",
+    "min_updater":  "1.0.0"
 }
