@@ -1,1 +1,7 @@
-{"version":"1.0.9.33","url":"https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.33/Colibri_PMS_1.0.9.33_FINAL.zip","sha256":"1E5728646DE04F8211C0237D26703162C4DA05BF0BBB0EC115F50D0A7AC696CD","notes":"COLIBRI PMS 1.0.9.33 - CxC sincronizada con Mobile, mejoras TRA y ajustes en pagos EPS.","min_updater":"1.0.0"}
+{
+    "version":  "1.0.9.34",
+    "url":  "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.34/Colibri_PMS_1.0.9.34_FINAL.zip",
+    "sha256":  "1B88681E58D775E4659409DEC4B99207636A741BBE63C32022B22816D21D40D8",
+    "notes":  "COLIBRI PMS 1.0.9.34 - Correcciones EPS y Tesoreria; ajustes de Pasadia y transporte; reapertura administrativa de check-out con edicion posterior y actualizacion correcta de valores en CxC/Tesoreria.",
+    "min_updater":  "1.0.0"
+}
