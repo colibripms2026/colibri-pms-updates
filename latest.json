@@ -1,7 +1,7 @@
 {
   "version": "1.0.9.36",
   "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.36/Colibri_PMS_1.0.9.36_FINAL.zip",
-  "sha256": "8204A126C983A50B0E6242BB2C9634DED80485DA0E98D3338785026B596E8509",
-  "notes": "COLIBRI PMS 1.0.9.36 FINAL - cierre operativo 2026-09-19. Traslado reserva unica, segmentos, continue-stay, Empresa/IVA, CxC, Tesoreria sin turno, D-001 Mobile resuelto.",
+  "sha256": "7382A9A54F1518615DFB1DCB0E807F11038F59F3F80586BFBA84CB74775B1C61",
+  "notes": "COLIBRI PMS 1.0.9.36 FINAL - UI 8E pago agrupado Empresa visible en Tesoreria > CxC > B. EMPRESAS. Logica financiera sin cambios.",
   "min_updater": "1.0.0"
 }
