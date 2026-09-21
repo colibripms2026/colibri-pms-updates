@@ -1,0 +1,10 @@
+﻿COLIBRÍ PMS Desktop 1.0.9.37
+
+Corrección CxC / Detalle de cuentas pendientes
+- El detalle de cuentas pendientes usa saldo canónico (no lodging − pagado − descuento).
+- El total contractual contempla alojamiento, adicionales y ajuste de tarifa (general_total).
+- El saldo deriva de pagos reales y ajustes financieros; el ajuste de tarifa se muestra como rubro propio.
+- Filtro de pendientes: saldo canónico > 0.01.
+- Reservas #204 y #301 (balance 0 tras ajuste de tarifa) ya no aparecen como pendientes fantasma.
+- Sin cambios en pagos, Tesorería ni persistencia CxC: solo cálculo/presentación.
+

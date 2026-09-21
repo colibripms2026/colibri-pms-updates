@@ -1,7 +1,7 @@
 {
-    "notes":  "COLIBRI PMS 1.0.9.36 FINAL - financial recalc lodging dedupe checkout. Pagos Empresa/Particular con ajustes en formulario. CxC y Tesoreria intactas en checkout.",
-    "url":  "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.36/Colibri_PMS_1.0.9.36_FINAL.zip",
-    "version":  "1.0.9.36",
+    "notes":  "COLIBRÍ PMS Desktop 1.0.9.37 - Corrección CxC / Detalle de cuentas pendientes: saldo canónico (alojamiento + adicionales ± ajuste de tarifa). #204/#301 ya no aparecen como pendientes fantasma. Sin cambios en pagos ni Tesorería.",
+    "url":  "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.37/Colibri_PMS_1.0.9.37_FINAL.zip",
+    "version":  "1.0.9.37",
     "min_updater":  "1.0.0",
-    "sha256":  "A255677ED52161AAD86AE530596B93369FF021F7C591A003CCD6042D6E8E1610"
+    "sha256":  "50FA9E0BF5EA424AC636D1012F0424DF563D0C6CE7691EBA132D6D5DCA9775E8"
 }
