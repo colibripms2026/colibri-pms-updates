@@ -1,7 +1,8 @@
 {
-  "version": "1.0.9.40",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.40/Colibri_PMS_1.0.9.40_FINAL.zip",
-  "sha256": "5C3EAABE93D0BB127102CA1CD7DBAEE087D2A189C4DD9A732A2E60ED49EAA4C5",
-  "notes": "COLIBRI PMS Desktop 1.0.9.40 - Nomina Final Pack: FP2 periodos por dias, Editar completo, Guardar y recalcular, anticipos/prestamos parity Mobile.",
+  "version": "1.0.9.41",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.41/Colibri_PMS_1.0.9.41_FINAL.zip",
+  "sha256": "BDCA37EEC94CCB5A7F3E10F9F967E6A1A202BF70B995792F82214AB3FC4C9E1A",
+  "size": 47513235,
+  "notes": "Nomina: prestamo a empleados por cuota y bridge de egresos. Cotizaciones: habitacion y cliente Particular.",
   "min_updater": "1.0.0"
 }
