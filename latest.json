@@ -1,8 +1,8 @@
 {
-  "version": "1.0.9.44",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.44/Colibri_PMS_1.0.9.44_FINAL.zip",
-  "sha256": "73F6DDF6A73EF191AB0193DC275F27AB1C395832D0A8DB7843FF8768F1625DDE",
-  "size": 47362444,
-  "notes": "Inventario en Desktop, POS con huespedes reales, correccion de nombre de reserva y fecha de egreso.",
+  "version": "1.0.9.45",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.45/Colibri_PMS_1.0.9.45_FINAL.zip",
+  "sha256": "2F93DF8084EB8E51AE9FB21E10A3F23A79C8B8E2255B5C65F5F6AD008679D9C6",
+  "size": 47853646,
+  "notes": "Desktop 1.0.9.45. Cargo a empleado lee trabajadores reales de Nomina.",
   "min_updater": "1.0.0"
 }
