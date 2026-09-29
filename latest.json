@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9.47",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.47/Colibri_PMS_1.0.9.47_FINAL.zip",
-  "sha256": "FF2416CD22650B287870A0EB7578DA23CE6D138C75886F2E9916E7E4F69525AE",
-  "notes": "Desktop 1.0.9.47. Cartera EPS: facturas con saldo permanecen visibles, busqueda por numero de factura y pago por fila.",
+  "version": "1.0.9.48",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.48/Colibri_PMS_1.0.9.48_FINAL.zip",
+  "sha256": "25194A6F85ED642876894FE16A7DB3BE5F95B97EF0D80CC4417FF71883C17775",
+  "notes": "Desktop 1.0.9.48. Arranque: una sola carga inicial y la ventana sigue respondiendo antes del login.",
   "min_updater": "1.0.0"
 }
