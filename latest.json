@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9.51",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.51/Colibri_PMS_1.0.9.51_FINAL.zip",
-  "sha256": "4DC610F6ACCB6537E16626EE3FB09FAA351932F81AF07D099EE9665A3F510D11",
-  "notes": "Anulación administrativa controlada para Superadministrador, preservando historial y protecciones financieras.",
+  "version": "1.0.9.52",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.52/Colibri_PMS_1.0.9.52_FINAL.zip",
+  "sha256": "0B6D261294304AEACEE42BC1BBD5C124900DD2D7844B863558928D990E90388E",
+  "notes": "Corrección de fechas históricas EPS sin falso bloqueo. Cierre coherente de hospitalización. Servicios de hoy ya no muestra hospitalizaciones finalizadas.",
   "min_updater": "1.0.0"
 }
