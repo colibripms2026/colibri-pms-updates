@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9.49",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.49/Colibri_PMS_1.0.9.49_FINAL.zip",
-  "sha256": "A80139FD9A997177A08CA8310291B75F403DDBAA61DC3677F5AE91367248776E",
-  "notes": "Corrección de la cartera de pasadías EPS sin factura. Los traslados históricos respetan el ingreso original después de un recheck-in. El transporte terminal por trayecto T340019939 vuelve a aparecer en el catálogo vigente.",
+  "version": "1.0.9.50",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.50/Colibri_PMS_1.0.9.50_FINAL.zip",
+  "sha256": "466C5E6D815B347467991788E4702303CD015F9FFEC937190F0BBC7F069CF00B",
+  "notes": "Corrección de la edición de Hospedaje EPS cuando el texto contiene Unicode. La fecha de salida se puede ajustar sin perder el traslado ni dividir la cuenta.",
   "min_updater": "1.0.0"
 }
