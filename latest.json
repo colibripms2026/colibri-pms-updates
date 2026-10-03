@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9.55",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.55/Colibri_PMS_1.0.9.55_FINAL.zip",
-  "sha256": "C201ABB00581FCFEE022CAB768BC6703B6FD7E10BC793B959E92824ACAA0D999",
-  "notes": "Calendario: el selector de fecha ya no congela la ventana principal. Updater 1.0.9.54 a 1.0.9.55 verificado en sandbox.",
+  "version": "1.0.9.56",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.56/Colibri_PMS_1.0.9.56_FINAL.zip",
+  "sha256": "508896FA39686E97990FF53D6A8F73FE8020AD2A2ADF7D8543D0BCD55110B93A",
+  "notes": "Formularios: abrir pago, consumo y las demás ventanas ya no congela la interfaz. Updater 1.0.9.55 a 1.0.9.56 verificado en sandbox.",
   "min_updater": "1.0.0"
 }
