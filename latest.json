@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9.53",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.53/Colibri_PMS_1.0.9.53_FINAL.zip",
-  "sha256": "61C10A613CD2A4C94FC112A6E5647ABF531BDAEC3707BF25F6D263AF752B9158",
-  "notes": "Pestaña Pagos de nómina visible, con anulación del pago y del egreso de tesorería asociado. Correcciones de texto en hospitalización, pasadía y el período de cuentas por cobrar.",
+  "version": "1.0.9.54",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.54/Colibri_PMS_1.0.9.54_FINAL.zip",
+  "sha256": "FA5BDB24F273F88370F2AD35F8A6F40F8FFD86CB65D9144BEE475A1FB322DEC4",
+  "notes": "Harness navigation stable. Pending EXE flags closed for resumen, tesoreria, historico de facturas, pasadia, nomina y regresion. Updater 1.0.9.53 a 1.0.9.54 verificado en sandbox.",
   "min_updater": "1.0.0"
 }
