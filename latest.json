@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9.57",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.57/Colibri_PMS_1.0.9.57_FINAL.zip",
-  "sha256": "A4B12E4B4015D5335E382AEC2BA9C09AC07DD1813F7E5CAEF4E5E5E75F6688D7",
-  "notes": "EPS sin factura sincroniza CxC al editar, el resumen no duplica reservas, el histórico muestra facturas pagadas y la orden de compra guarda y confirma.",
+  "version": "1.0.9.56",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.56/Colibri_PMS_1.0.9.56_FINAL.zip",
+  "sha256": "508896FA39686E97990FF53D6A8F73FE8020AD2A2ADF7D8543D0BCD55110B93A",
+  "notes": "Formularios: abrir pago, consumo y las demás ventanas ya no congela la interfaz. Updater 1.0.9.55 a 1.0.9.56 verificado en sandbox.",
   "min_updater": "1.0.0"
 }
