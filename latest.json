@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9.56",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.56/Colibri_PMS_1.0.9.56_FINAL.zip",
-  "sha256": "508896FA39686E97990FF53D6A8F73FE8020AD2A2ADF7D8543D0BCD55110B93A",
-  "notes": "Formularios: abrir pago, consumo y las demás ventanas ya no congela la interfaz. Updater 1.0.9.55 a 1.0.9.56 verificado en sandbox.",
+  "version": "1.0.9.59",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.59/Colibri_PMS_1.0.9.59_FINAL.zip",
+  "sha256": "53EA661D577DCE385F6DCF225CF3860CF160C4E15BD74D2A5FD463CF0A84A963",
+  "notes": "Mejora de rendimiento y estabilidad: persistencia asíncrona para evitar bloqueos de interfaz, login más rápido y corrección de persistencia/ruta canónica de Inventario.",
   "min_updater": "1.0.0"
 }
