@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9.59",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.59/Colibri_PMS_1.0.9.59_FINAL.zip",
-  "sha256": "53EA661D577DCE385F6DCF225CF3860CF160C4E15BD74D2A5FD463CF0A84A963",
-  "notes": "Mejora de rendimiento y estabilidad: persistencia asíncrona para evitar bloqueos de interfaz, login más rápido y corrección de persistencia/ruta canónica de Inventario.",
-  "min_updater": "1.0.0"
+    "version":  "1.0.9.62",
+    "url":  "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.62/Colibri_PMS_1.0.9.62_FINAL.zip",
+    "sha256":  "76872C92157EBD7ADECBCECF9E8A214DC63ED97723E7A86DE03B85DDE6F95242",
+    "notes":  "Mejora de responsividad UI y estabilidad EPS: persistencia asincrona sin bloqueo de interfaz, proteccion contra race de reload en creacion EPS, y CxC/denylist 38 intacta.",
+    "min_updater":  "1.0.0"
 }
