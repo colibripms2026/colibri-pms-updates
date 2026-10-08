@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.9.65",
-    "url":  "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.65/Colibri_PMS_1.0.9.65_FINAL.zip",
-    "sha256":  "8A8CD129ECABE25EB16EA4EEA600F3984D70D48E31E5AEB8A5D82A1BAAD8EE58",
-    "notes":  "Cierre con X sin congelamiento. Cerrar sesión no bloqueante. Configuración → Empresa editable. Corrección de guardado y detección de cambios. Navegación más rápida en Empresa, Usuarios y Permisos. DIAN, Booking, Airbnb e iCal live continúan desactivados.",
+    "version":  "1.0.9.66",
+    "url":  "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.66/Colibri_PMS_1.0.9.66_FINAL.zip",
+    "sha256":  "CFF4FE81D855E483E015DC6330BE66F1445E767B95BA41A3DE0D9250B047744F",
+    "notes":  "Channel Manager iCal. Sincronización manual por habitación. Calendarios conectados y múltiples mappings. Sincronizar seleccionados y sincronizar todos. Configuración masiva de habitaciones. Filtros por canal y por tipo. Bloqueos externos visibles en el calendario. Los conflictos no pisan reservas. DIAN, Booking, Airbnb e iCal live continúan desactivados.",
     "min_updater":  "1.0.0"
 }
