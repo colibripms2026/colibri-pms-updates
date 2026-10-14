@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.9.69",
-    "url":  "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.69/Colibri_PMS_1.0.9.69.zip",
-    "sha256":  "D3C13CBBF569F038BC31EBB9049FBD6220D11BB12DF742D1694AFA66565646C9",
-    "notes":  "Abonos globales de cotizaciones particulares multihabitacion, saldos consolidados y estados de cuenta.",
-    "min_updater":  "1.0.0"
+  "version": "1.0.9.70",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.70/Colibri_PMS_1.0.9.70_FINAL.zip",
+  "sha256": "36037F2FF591BD2FF029A5D66197D3DB5C0311E925738108B2F21DE3D9F7BC4A",
+  "notes": "Mejoras de Cocina y Alimentacion EPS",
+  "min_updater": "1.0.0"
 }
