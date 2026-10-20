@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9.72",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.72/Colibri_PMS_1.0.9.72_FINAL.zip",
-  "sha256": "472E10F8A188744AC06C5CEAB0E447921D93D96BD684F246E2E73F883D1CBFC4",
-  "notes": "COLIBRI PMS: integración acumulada de Reservas, Calendario, Cocina, POS, Inventario, Kardex y alimentación. Verificaciones en operación pendientes.",
+  "version": "1.0.9.73",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.73/Colibri_PMS_1.0.9.73_FINAL.zip",
+  "sha256": "482d4c1566cfa8b98e1af8bed31668f44c62740ce86e7746ae5106f3232f5f8f",
+  "notes": "COLIBRI PMS 1.0.9.73: formulario de Reservas restaurado. Resto de componentes de 1.0.9.72 conservados.",
   "min_updater": "1.0.0"
 }
