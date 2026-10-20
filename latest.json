@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9.73",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.73/Colibri_PMS_1.0.9.73_FINAL.zip",
-  "sha256": "482d4c1566cfa8b98e1af8bed31668f44c62740ce86e7746ae5106f3232f5f8f",
-  "notes": "COLIBRI PMS 1.0.9.73: formulario de Reservas restaurado. Resto de componentes de 1.0.9.72 conservados.",
+  "version": "1.0.9.74",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.74/Colibri_PMS_1.0.9.74_FINAL.zip",
+  "sha256": "2ed882df4a66a010bdeda425a0eae11c4dc962fc168d918e06b0145f5a59ae88",
+  "notes": "COLIBRI PMS 1.0.9.74: reservas, tarifa e IVA empresarial, habitaciones por hotel y desayuno en Particular/Empresa.",
   "min_updater": "1.0.0"
 }
