@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9.78",
-  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.78/Colibri_PMS_1.0.9.78_FINAL.zip",
-  "sha256": "69eb884a21bbe60539d317f066396b2bef636c2fd128e1ee20072607de34489b",
-  "notes": "COLIBRI PMS 1.0.9.78: temporadas especiales y promociones recurrentes en Habitaciones, mismo paquete para todos los hoteles.",
+  "version": "1.0.9.79",
+  "url": "https://github.com/colibripms2026/colibri-pms-updates/releases/download/v1.0.9.79/Colibri_PMS_1.0.9.79_FINAL.zip",
+  "sha256": "f763945927df8a1f125fdaed1d4d2b12261a8acb2473a79cb7ac701aebcfbf13",
+  "notes": "COLIBRI PMS 1.0.9.79: la pestaña Tarifas queda visible en Habitaciones, con tarifas base, temporadas especiales y promociones recurrentes.",
   "min_updater": "1.0.0"
 }
